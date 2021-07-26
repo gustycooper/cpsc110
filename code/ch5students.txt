@@ -1,0 +1,6 @@
+A,90,B,80,C,70,D,60
+Gusty Cooper,95,66,70,88,82,90,77
+Jerri Anne Cooper,90,89,92,82,90,95,94
+Coletta Ann Cooper,95,100,93,90,99,89,100
+Emily Reid Cooper,89,92,88,97,92,88,78
+Opal Beatrice Cooper,100,100,99,99,98,82

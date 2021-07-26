@@ -1,0 +1,5 @@
+dog 7.0
+cat 6.0
+fish 3.4
+bird 2.5
+turtle 13.0
