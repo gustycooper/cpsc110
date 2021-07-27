@@ -24,7 +24,7 @@ def process_commands(mal_mul_dict):
 def main():
     print("Animal Program - Converts people-years to animal-years")
     print("Enter q at prompt to quit")
-    mal_mul_dict = get_animal_years('ch4animals.txt')
+    mal_mul_dict = get_animal_years('ch5animals.txt')
     process_commands(mal_mul_dict)
 
 main()

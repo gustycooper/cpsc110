@@ -1,4 +1,4 @@
-infile = open("grades.txt", "r")
+infile = open("ch5grades.txt", "r")
 grades = []
 while True:
     line = infile.readline()

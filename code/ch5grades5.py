@@ -1,4 +1,4 @@
-infile = open("grades.txt", "r")
+infile = open("ch5grades.txt", "r")
 grades = []
 for line in infile:
     grades.append(int(line))

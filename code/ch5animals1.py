@@ -1,7 +1,7 @@
 print("Animal Program - Converts people-years to animal-years")
 print("Enter q at prompt to quit")
 mals_and_muls = []
-infile = open('ch4animals.txt',"r")
+infile = open('ch5animals.txt',"r")
 for line in infile:
     l = line.split()        # l is ['dog', '7.0']
     l[1] = float(l[1])      # convert '7.0' to 7.0
